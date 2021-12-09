@@ -1,2 +1,1 @@
-# juego-del-fantasma-CLASE-19
-juego del fantasma 
+# C19_LP_AA1
